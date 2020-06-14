@@ -1,30 +1,24 @@
-# This is a large heading
+# This is a test
+## This is still a test
+### This is really still a test
 
-## This is a smaller heading
+What is in a *name*?
+Does it hold **meaning**?
+Are we defined by what we are called?
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+A ***name*** is just a name
+It is a word that we respond to
+We are defined by what we do
+Not by what we are called by
 
-- This is
-- an unordered
-- list
+These three things do partly define me:
 
-1. This is
-2. an ordered
-3. list
+1. Tottenham fan
+2. Speaker of 3-4 languages
+3. Coder in multiple languages
 
-Here is `some code` in the middle of a sentence.
+These things are not associated with me:
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+- Arsenal
+- Bayern München
+- Barcelona
